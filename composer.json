@@ -32,8 +32,8 @@
         "memio/model": "^2.0.1",
         "memio/pretty-printer": "^2.0",
         "memio/twig-template-engine": "^2.0.1",
-        "php": "^7.2",
-        "phpspec/phpspec": "^6.1",
+        "php": "^7.3",
+        "phpspec/phpspec": "^7.0",
         "symfony/event-dispatcher": "^5.0"
     },
     "require-dev": {
