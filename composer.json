@@ -24,15 +24,45 @@
             "tests\\Memio\\SpecGen\\": "tests/Memio/SpecGen"
         }
     },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:torchello/redaktilo.git"
+        },
+        {
+            "type": "vcs",
+            "url": "git@github.com:torchello/memio.git"
+        },
+        {
+            "type": "vcs",
+            "url": "git@github.com:torchello/linter.git"
+        },
+        {
+            "type": "vcs",
+            "url": "git@github.com:torchello/validator.git"
+        },
+        {
+            "type": "vcs",
+            "url": "git@github.com:torchello/model.git"
+        },
+        {
+            "type": "vcs",
+            "url": "git@github.com:torchello/pretty-printer.git"
+        },
+        {
+            "type": "vcs",
+            "url": "git@github.com:torchello/twig-template-engine.git"
+        }
+    ],
     "require": {
-        "gnugat/redaktilo": "^2.0",
-        "memio/memio": "^2.0",
-        "memio/linter": "^2.0",
-        "memio/validator": "^2.0",
-        "memio/model": "^2.0.1",
-        "memio/pretty-printer": "^2.0",
-        "memio/twig-template-engine": "^2.0.1",
-        "php": "^7.3",
+        "gnugat/redaktilo": "dev-master",
+        "memio/memio": "dev-master",
+        "memio/linter": "dev-master",
+        "memio/validator": "dev-master",
+        "memio/model": "dev-master",
+        "memio/pretty-printer": "dev-master",
+        "memio/twig-template-engine": "dev-master",
+        "php": "^7.3 || ^8.0",
         "phpspec/phpspec": "^7.0",
         "symfony/event-dispatcher": "^5.0"
     },
