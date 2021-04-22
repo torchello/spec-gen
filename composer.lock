@@ -81,16 +81,16 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/torchello/redaktilo.git",
-                "reference": "7e00fcb962a9d0b7fb574b5e8416b2660b5bbd12"
+                "reference": "6a3f57c23726c6e5a03cb3347ddbdb7ba2945556"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/torchello/redaktilo/zipball/7e00fcb962a9d0b7fb574b5e8416b2660b5bbd12",
-                "reference": "7e00fcb962a9d0b7fb574b5e8416b2660b5bbd12",
+                "url": "https://api.github.com/repos/torchello/redaktilo/zipball/6a3f57c23726c6e5a03cb3347ddbdb7ba2945556",
+                "reference": "6a3f57c23726c6e5a03cb3347ddbdb7ba2945556",
                 "shasum": ""
             },
             "require": {
-                "php": "^7.2 || ^8.0",
+                "php": "^7.2|^8.0",
                 "symfony/filesystem": "^5.0"
             },
             "require-dev": {
@@ -147,7 +147,7 @@
             "support": {
                 "source": "https://github.com/torchello/redaktilo/tree/master"
             },
-            "time": "2021-04-22T02:15:19+00:00"
+            "time": "2021-04-22T04:09:15+00:00"
         },
         {
             "name": "memio/linter",
