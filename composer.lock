@@ -440,12 +440,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/torchello/validator.git",
-                "reference": "330c2be873da3485d0feb95a04f74151af8236a0"
+                "reference": "c154a3a43a3f6c8b6bc23d42b68fdd80d048f945"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/torchello/validator/zipball/330c2be873da3485d0feb95a04f74151af8236a0",
-                "reference": "330c2be873da3485d0feb95a04f74151af8236a0",
+                "url": "https://api.github.com/repos/torchello/validator/zipball/c154a3a43a3f6c8b6bc23d42b68fdd80d048f945",
+                "reference": "c154a3a43a3f6c8b6bc23d42b68fdd80d048f945",
                 "shasum": ""
             },
             "require": {
@@ -484,7 +484,7 @@
             "support": {
                 "source": "https://github.com/torchello/validator/tree/master"
             },
-            "time": "2021-04-22T02:39:21+00:00"
+            "time": "2021-04-22T03:56:51+00:00"
         },
         {
             "name": "phpdocumentor/reflection-common",
