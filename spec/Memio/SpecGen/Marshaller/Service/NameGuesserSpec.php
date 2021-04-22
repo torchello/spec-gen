@@ -11,7 +11,7 @@
 
 namespace spec\Memio\SpecGen\Marshaller\Service;
 
-use Memio\SpecGen\Fixtures\Types\SomeInterface;
+use fixtures\Types\SomeInterface;
 use PhpSpec\ObjectBehavior;
 
 class NameGuesserSpec extends ObjectBehavior

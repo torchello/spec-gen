@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Memio\SpecGen\Fixtures;
+namespace fixtures;
 
 class Repository
 {

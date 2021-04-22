@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Memio\SpecGen\Fixtures\Types;
+namespace fixtures\Types;
 
 class SomeImplementation implements SomeInterface
 {
