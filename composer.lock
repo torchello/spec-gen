@@ -270,23 +270,28 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/torchello/model.git",
-                "reference": "c6b140c5d97f9a38304dc99fb78aeaffce862047"
+                "reference": "b14ca4df8f4be30457594746426f9c6f377b168f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/torchello/model/zipball/c6b140c5d97f9a38304dc99fb78aeaffce862047",
-                "reference": "c6b140c5d97f9a38304dc99fb78aeaffce862047",
+                "url": "https://api.github.com/repos/torchello/model/zipball/b14ca4df8f4be30457594746426f9c6f377b168f",
+                "reference": "b14ca4df8f4be30457594746426f9c6f377b168f",
                 "shasum": ""
             },
             "require": {
                 "php": "^7.2|^8.0"
             },
             "require-dev": {
-                "friendsofphp/php-cs-fixer": "^2.16",
-                "phpspec/phpspec": "^6.1"
+                "friendsofphp/php-cs-fixer": "^2.10",
+                "phpspec/phpspec": "^4.3"
             },
             "default-branch": true,
             "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "2.1-dev"
+                }
+            },
             "autoload": {
                 "psr-4": {
                     "Memio\\Model\\": "src/Memio/Model"
@@ -313,7 +318,7 @@
             "support": {
                 "source": "https://github.com/torchello/model/tree/master"
             },
-            "time": "2021-04-22T02:21:54+00:00"
+            "time": "2021-04-22T03:45:46+00:00"
         },
         {
             "name": "memio/pretty-printer",
