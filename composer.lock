@@ -208,12 +208,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/torchello/memio.git",
-                "reference": "3dcb7186762210055e6e0330cf267cc1eddd4a94"
+                "reference": "bdfb59eed33b95b826f529b2e6e09423808cdec0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/torchello/memio/zipball/3dcb7186762210055e6e0330cf267cc1eddd4a94",
-                "reference": "3dcb7186762210055e6e0330cf267cc1eddd4a94",
+                "url": "https://api.github.com/repos/torchello/memio/zipball/bdfb59eed33b95b826f529b2e6e09423808cdec0",
+                "reference": "bdfb59eed33b95b826f529b2e6e09423808cdec0",
                 "shasum": ""
             },
             "require": {
@@ -262,7 +262,7 @@
             "support": {
                 "source": "https://github.com/torchello/memio/tree/master"
             },
-            "time": "2021-04-22T02:39:53+00:00"
+            "time": "2021-04-22T02:50:43+00:00"
         },
         {
             "name": "memio/model",
